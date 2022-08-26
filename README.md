@@ -3,7 +3,7 @@
 [![GitHub][github-shield]](https://github.com/Rendani-Ally)
 [![YouTube][youtube-shield]](https://www.youtube.com/channel/UClTqKk9kS0yb2eo7YCYqKNQ)
 
-
+  
 <p align="center">
   <a href="https://github.com/ThemeQuest/specs-on-website">
     <!-- <img src="src/assets/logo.png" alt="Logo" width="80" height="80"> -->
@@ -22,19 +22,22 @@
     <br/>
     ·
     💬 Ask me about JavaScript, Full Stack development and building cool sh*t
+    <br /><br/>
+    💬 Decisions shape destiney, be decisive and take action.
   </p>
+  
+   <br />
   <p align="center">
-  <h5 align="center">⚡ Fun facts: </h5>
+    <h5 align="center">⚡ Fun facts: </h5>
     <br />
-    <br />
-    :bowtie: Limit in writing code is what you know
+    :bowtie: Limit in writing code is how far you are willing to go
     <br />
     :grimacing: Coding will soon be as important as reading
     <br />
     :moneybag: There is BIG money in coding
     <br />
     :flushed: NASA still operates some projects on programming from the 1970’s
-   <br />
+    <br />
     :open_mouth: It’s all 0’s and 1’s
     <br />
   </p>
