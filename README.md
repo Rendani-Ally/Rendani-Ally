@@ -12,7 +12,7 @@
   <h3 align="center">Rendani Alidzulwi</h3>
 
   <p align="center">
-    😎Hi, I'm Rendani (😄 Pronouns: Ra-nda-knee) 👋 I'm a Full Stack Engineer enthusiast & Software Quality engineer by profession 🌱
+    😎Hi, I'm Rendani (😄 Pronouns: Ra-nda-knee) 👋 I'm a Full Stack development enthusiast & Software Quality engineer by profession 🌱
     <br />
     <br />·
     🔭 I’m currently working on NextJs content!
