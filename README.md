@@ -12,13 +12,13 @@
   <h3 align="center">Rendani Alidzulwi</h3>
 
   <p align="center">
-    😎Hi, I'm Rendani (😄 Pronouns: Ra-nda-knee) 👋 I'm a Full Stack development enthusiast & Software Quality engineer by profession 🌱
+    😎Hi, I'm Rendani (😄 Pronouns: Ra-nda-knee) 👋 I'm a Full Stack enthusiast & Software Quality engineer by profession 🌱
     <br />
     <br />·
     🔭 I’m currently working on NextJs content!
     <br/>
     ·
-    🌱 I’m currently learning GraphQL, Next.js, Design, testing
+    🌱And Currently learning GraphQL, Next.js, Design, Testing
     <br/>
     ·
     💬 Ask me about JavaScript, Full Stack development and building cool sh*t
